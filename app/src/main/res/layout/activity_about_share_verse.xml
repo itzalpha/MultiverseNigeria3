@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="18dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif-black"
+                android:text="Verse Store"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="?android:textColorPrimary"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:textSize="18sp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="This is a Mobile Application software created by VerseCity with the aim of allowing easy access and up to date information of localize app as well as knowledge from different platform which would be of a great advantage for youth in there daily lives."
+                android:textAlignment="center"
+                android:textColor="?android:textColorPrimary" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="''Apps''\nVerse Store allow its users to be aware of localize apps in there country.."
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="?android:textColorPrimary" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:textSize="18sp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="''Blog''\nVerse Store allow its Users to be aware of latest VerseCity Tech Information , and important information from different platform such as facebook , instagram, twitter , tictok , youtube . Which would be of great important to the youth."
+                android:textAlignment="center"
+                android:textColor="?android:textColorPrimary" />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="100dp"
+                android:textSize="18sp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="We hope you enjoy Our Application , feedback would be highly needed , and please do send us feedback On any problem encountered in our software , while we sought it out. To the best of our Ability.\n\nThank You Have A Nice Day..."
+                android:textAlignment="center"
+                android:textColor="?android:textColorPrimary" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

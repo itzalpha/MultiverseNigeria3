@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1001411677023",
+    "project_id": "verse-city-database",
+    "storage_bucket": "verse-city-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001411677023:android:53a662b35287e5467404ea",
+        "android_client_info": {
+          "package_name": "com.versecitytech.campusverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsfA_qJaT3jn1n8a2jsDKFvxjlyBaWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001411677023:android:6355c0a82d7f06227404ea",
+        "android_client_info": {
+          "package_name": "com.versecitytech.shareverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsfA_qJaT3jn1n8a2jsDKFvxjlyBaWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001411677023:android:ad6582bd6036acf07404ea",
+        "android_client_info": {
+          "package_name": "com.versecitytech.versestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsfA_qJaT3jn1n8a2jsDKFvxjlyBaWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001411677023-26akle96k4hjjtlhkeh5sa02iedsroct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Verse Store</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Strings used for VerseCity Activity -->
+    <string name="versecity">VerseCity</string>
+    <string name="ahmed_mukhtar_muhammed">Ahmed Mukhtar Muhammed</string>
+    <string name="versecity_founder_amp_ce0"><![CDATA[VerseCity Founder & CE0]]></string>
+    <string name="entrepreneur_frontend_android_mobile_developer_graphic_designer_writer_philosopher_amp_analyst"><![CDATA[Entrepreneur , Frontend Android mobile developer , Graphic Designer, Writer, Philosopher & Analyst.]]></string>
+    <string name="social_media">Social Media</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+
+</resources>
